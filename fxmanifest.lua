@@ -3,4 +3,4 @@ game 'gta5'
 lua54 'yes'
 
 author 'EkY'
-version '0.0.1'
+version '0.0.2'
